@@ -80,8 +80,19 @@ const priests = {
   },
 }
 
+export const BASE_PROFILE_URL =
+  'https://malankara-syrian-catholic-church-di.vercel.app/p'
+
 export function getPriest(slug) {
   return priests[slug] ?? null
+}
+
+export function getPriestList() {
+  return Object.entries(priests).map(([slug, priest]) => ({
+    slug,
+    ...priest,
+    profileUrl: `${BASE_PROFILE_URL}/${slug}`,
+  }))
 }
 
 export default priests

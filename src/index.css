@@ -244,3 +244,153 @@ body::before {
     transform: scale(1.06);
   }
 }
+
+/* QR generator */
+.qr-page {
+  width: min(100%, 1100px);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3.5rem;
+  animation: fade-up 0.65s ease both;
+}
+
+.qr-page__header {
+  text-align: center;
+  margin-bottom: 2.25rem;
+}
+
+.qr-page__title {
+  margin: 0;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(2.1rem, 5.5vw, 3rem);
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--ink);
+}
+
+.qr-page__title::after {
+  content: '';
+  display: block;
+  width: 72px;
+  height: 2px;
+  margin: 1rem auto 0;
+  background: linear-gradient(90deg, transparent, var(--gold-soft), transparent);
+}
+
+.qr-page__subtitle {
+  margin: 1rem auto 0;
+  max-width: 36rem;
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+}
+
+.qr-page__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.15rem;
+}
+
+@media (min-width: 700px) {
+  .qr-page__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1000px) {
+  .qr-page__grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.qr-card {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.35rem 1.2rem 1.4rem;
+  box-shadow: var(--shadow);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.qr-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 32px rgba(70, 55, 30, 0.12);
+}
+
+.qr-card__name {
+  margin: 0 0 0.4rem;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.45rem;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.qr-card__url {
+  margin: 0 0 1rem;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  word-break: break-all;
+  line-height: 1.4;
+}
+
+.qr-card__code {
+  display: grid;
+  place-items: center;
+  padding: 0.5rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.qr-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  justify-content: center;
+  margin-top: auto;
+}
+
+.qr-card__btn {
+  appearance: none;
+  border: none;
+  cursor: pointer;
+  background: var(--gold);
+  color: #fffdf9;
+  font: inherit;
+  font-size: 0.92rem;
+  font-weight: 600;
+  padding: 0.65rem 1.1rem;
+  border-radius: 10px;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.qr-card__btn:hover {
+  background: #9a7632;
+}
+
+.qr-card__btn:active {
+  transform: scale(0.98);
+}
+
+.qr-card__link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: var(--sage);
+  font-size: 0.92rem;
+  font-weight: 600;
+  padding: 0.65rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.7);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.qr-card__link:hover {
+  color: var(--ink);
+  border-color: rgba(176, 138, 60, 0.45);
+}
