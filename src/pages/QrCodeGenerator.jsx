@@ -1,4 +1,4 @@
-import { useRef } from 'react'
+import { useRef, useState } from 'react'
 import { QRCodeCanvas } from 'qrcode.react'
 import { getPriestList } from '../data/priests'
 
@@ -50,6 +50,23 @@ function QrCard({ priest }) {
 
 function QrCodeGenerator() {
   const priests = getPriestList()
+  const [query, setQuery] = useState('')
+  const q = query.trim().toLowerCase()
+
+  const filtered = q
+    ? priests.filter((priest) => {
+        const haystack = [
+          priest.name,
+          priest.documentName,
+          priest.nativePlace,
+          priest.slug,
+        ]
+          .join(' ')
+          .toLowerCase()
+
+        return haystack.includes(q)
+      })
+    : priests
 
   return (
     <main className="qr-page">
@@ -63,13 +80,32 @@ function QrCodeGenerator() {
           Each code opens the matching personal profile. Download and print as
           needed.
         </p>
+
+        <div className="qr-search">
+          <label className="qr-search__label" htmlFor="qr-search">
+            Search priests
+          </label>
+          <input
+            id="qr-search"
+            className="qr-search__input"
+            type="search"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Search by name, document name, or place…"
+            autoComplete="off"
+          />
+        </div>
       </header>
 
-      <section className="qr-page__grid" aria-label="Priest QR codes">
-        {priests.map((priest) => (
-          <QrCard key={priest.slug} priest={priest} />
-        ))}
-      </section>
+      {filtered.length === 0 ? (
+        <p className="qr-page__empty">No priests match “{query.trim()}”.</p>
+      ) : (
+        <section className="qr-page__grid" aria-label="Priest QR codes">
+          {filtered.map((priest) => (
+            <QrCard key={priest.slug} priest={priest} />
+          ))}
+        </section>
+      )}
     </main>
   )
 }
