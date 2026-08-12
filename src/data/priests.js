@@ -383,6 +383,18 @@ const priests = {
     permanentAddress: "Jose Mathew, Kottackakathu Padinjattathil, Sooranad North P.O., Kunnathoor, Kollam, PIN 690561",
     emergencyContact: "9567454065",
   },
+  'george-kottapuram': {
+    name: "Fr. George Kottapuram",
+    documentName: "K. Chacko",
+    nativePlace: "Kokkad, Kunnathoor",
+    father: "George Chacko",
+    mother: "Leelamma Chacko",
+    bornOn: "01/06/1976",
+    bloodGroup: "O+",
+    ordained: "27/12/2001 at Cathedral by Moran Mor Cyril Mar Baselios",
+    permanentAddress: "Kottapuram House, Kokkad P.O., Kunnathoor East (Via) - 690540",
+    emergencyContact: "9446854671",
+  },
 }
 
 export const BASE_PROFILE_URL =
