@@ -376,14 +376,32 @@ const priests = {
 export const BASE_PROFILE_URL =
   'https://malankara-syrian-catholic-church-di.vercel.app/p'
 
+const priestSlugs = Object.keys(priests)
+
+export function getPriestCount() {
+  return priestSlugs.length
+}
+
 export function getPriest(slug) {
-  return priests[slug] ?? null
+  const priest = priests[slug]
+  if (!priest) return null
+
+  const number = priestSlugs.indexOf(slug) + 1
+  return {
+    slug,
+    ...priest,
+    number,
+    total: priestSlugs.length,
+    profileUrl: `${BASE_PROFILE_URL}/${slug}`,
+  }
 }
 
 export function getPriestList() {
-  return Object.entries(priests).map(([slug, priest]) => ({
+  return priestSlugs.map((slug, index) => ({
     slug,
-    ...priest,
+    ...priests[slug],
+    number: index + 1,
+    total: priestSlugs.length,
     profileUrl: `${BASE_PROFILE_URL}/${slug}`,
   }))
 }

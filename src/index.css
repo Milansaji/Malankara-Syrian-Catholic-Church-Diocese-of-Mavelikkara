@@ -112,8 +112,31 @@ body::before {
 }
 
 .profile__header {
+  position: relative;
   text-align: center;
   margin-bottom: 2rem;
+}
+
+.card-number {
+  display: inline-grid;
+  place-items: center;
+  min-width: 2rem;
+  height: 2rem;
+  padding: 0 0.45rem;
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--gold-soft), var(--gold));
+  color: #fffdf9;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  box-shadow: 0 4px 12px rgba(176, 138, 60, 0.28);
+}
+
+.card-number--profile {
+  margin-bottom: 0.75rem;
+  min-width: 2.4rem;
+  height: 2.4rem;
+  font-size: 1rem;
 }
 
 .profile__ornament {
@@ -351,6 +374,7 @@ body::before {
 }
 
 .qr-card {
+  position: relative;
   background: var(--bg-card);
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -363,26 +387,25 @@ body::before {
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
+.qr-card .card-number {
+  position: absolute;
+  top: 0.85rem;
+  left: 0.85rem;
+}
+
 .qr-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 14px 32px rgba(70, 55, 30, 0.12);
 }
 
 .qr-card__name {
-  margin: 0 0 0.4rem;
+  margin: 0 0 1rem;
+  padding: 0 2rem;
   font-family: 'Cormorant Garamond', serif;
   font-size: 1.45rem;
   font-weight: 600;
   color: var(--ink);
   line-height: 1.25;
-}
-
-.qr-card__url {
-  margin: 0 0 1rem;
-  font-size: 0.78rem;
-  color: var(--ink-soft);
-  word-break: break-all;
-  line-height: 1.4;
 }
 
 .qr-card__code {

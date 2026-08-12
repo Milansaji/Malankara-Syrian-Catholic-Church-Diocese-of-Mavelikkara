@@ -18,8 +18,10 @@ function QrCard({ priest }) {
 
   return (
     <article className="qr-card">
+      <span className="card-number" aria-label={`Priest ${priest.number} of ${priest.total}`}>
+        {priest.number}
+      </span>
       <h2 className="qr-card__name">{priest.name}</h2>
-      <p className="qr-card__url">{priest.profileUrl}</p>
 
       <div className="qr-card__code" ref={canvasWrapRef}>
         <QRCodeCanvas
@@ -52,6 +54,7 @@ function QrCodeGenerator() {
   const filtered = q
     ? priests.filter((priest) => {
         const haystack = [
+          String(priest.number),
           priest.name,
           priest.documentName,
           priest.nativePlace,
