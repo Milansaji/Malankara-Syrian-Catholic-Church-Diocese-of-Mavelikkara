@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { QRCodeCanvas } from 'qrcode.react'
 import { getPriestList } from '../data/priests'
 
@@ -35,14 +36,9 @@ function QrCard({ priest }) {
         <button type="button" className="qr-card__btn" onClick={handleDownload}>
           Download QR
         </button>
-        <a
-          className="qr-card__link"
-          href={priest.profileUrl}
-          target="_blank"
-          rel="noreferrer"
-        >
+        <Link className="qr-card__link" to={`/p/${priest.slug}`}>
           Open profile
-        </a>
+        </Link>
       </div>
     </article>
   )
