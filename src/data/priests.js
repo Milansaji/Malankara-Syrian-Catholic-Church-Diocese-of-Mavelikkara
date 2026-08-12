@@ -395,6 +395,18 @@ const priests = {
     permanentAddress: "Kottapuram House, Kokkad P.O., Kunnathoor East (Via) - 690540",
     emergencyContact: "9446854671",
   },
+  'job-kalluvilayil': {
+    name: "Fr. Job Kalluvilayil",
+    documentName: "Job Kalluvilayil",
+    nativePlace: "Ambalapuram",
+    father: "K M Kochumman",
+    mother: "Marykutty Kochumman",
+    bornOn: "27/09/1967",
+    bloodGroup: "O+",
+    ordained: "28/12/1994 at Malankara Catholic Church, Ayooor by Bishop Lawrence Mar Ephrem",
+    permanentAddress: "Kalluvila Veedu, Ambalapuram, ETC P.O, Kottarakara, Kollam, PIN 691531, Kerala, India",
+    emergencyContact: "9447962032, 9497175158",
+  },
 }
 
 export const BASE_PROFILE_URL =
