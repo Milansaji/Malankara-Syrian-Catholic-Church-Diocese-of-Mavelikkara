@@ -371,6 +371,18 @@ const priests = {
     permanentAddress: "Chenkilath Thekkathil, Pavumba P. O., Pavumba North, Kollam 690575",
     emergencyContact: "",
   },
+  'jose-kottackakathu': {
+    name: "Fr. Jose Kottackakathu",
+    documentName: "Jose Mathew",
+    nativePlace: "Sooranad North",
+    father: "Mathai K",
+    mother: "Podiyamma Mathew",
+    bornOn: "26/01/1985",
+    bloodGroup: "AB+",
+    ordained: "27/12/2010 at St. Mary's Malankara Catholic Church, Puthoor by Bishop Joshua Mar Ignathios",
+    permanentAddress: "Jose Mathew, Kottackakathu Padinjattathil, Sooranad North P.O., Kunnathoor, Kollam, PIN 690561",
+    emergencyContact: "9567454065",
+  },
 }
 
 export const BASE_PROFILE_URL =
