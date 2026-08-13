@@ -403,8 +403,8 @@ const priests = {
     mother: "Marykutty Kochumman",
     bornOn: "27/09/1967",
     bloodGroup: "O+",
-    ordained: "28/12/1994 at Malankara Catholic Church, Ayooor by Bishop Lawrence Mar Ephrem",
-    permanentAddress: "Kalluvila Veedu, Ambalapuram, ETC P.O, Kottarakara, Kollam, PIN 691531, Kerala, India",
+    ordained: "28/12/1994 at Malankara Catholic Church, Ayoor by Bishop Lawrence Mar Ephrem",
+    permanentAddress: "Kalluvila Veedu, Ampalapuram, ETC.P.O, Kottarakara, Kollam, PIN 691531, Kerala, India",
     emergencyContact: "9447962032, 9497175158",
   },
 }
