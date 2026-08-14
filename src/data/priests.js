@@ -407,6 +407,30 @@ const priests = {
     permanentAddress: "Kalluvila Veedu, Ampalapuram, ETC.P.O, Kottarakara, Kollam, PIN 691531, Kerala, India",
     emergencyContact: "9447962032, 9497175158",
   },
+  'joseph-sadanam': {
+    name: "Fr. Joseph Sadanam",
+    documentName: "Fr Joseph George",
+    nativePlace: "Thuruthikara, Karumthotuva",
+    father: "K M George (late)",
+    mother: "Kunjamma George",
+    bornOn: "15/03/1967 (In Document: 29/05/1967)",
+    bloodGroup: "A+",
+    ordained: "18/02/1998",
+    permanentAddress: "St George Sadanam, Thuruthikara P O, Kunnathoor, PIN 690540, Kerala, India",
+    emergencyContact: "9447366149, 04792344081 (Bishop House), 7306679456 (Procurator)",
+  },
+  'barthelomew-george': {
+    name: "Fr. Barthelomew George",
+    documentName: "Fr. Bartheloma George",
+    nativePlace: "Nedumpaikulam, Kundara",
+    father: "Chacko",
+    mother: "Sosamma",
+    bornOn: "10/04/1948",
+    bloodGroup: "AB+",
+    ordained: "04/12/1985 at Mount Tabor Dayara Pathanapuram by Bishop Thomas Mar Timotheos",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India",
+    emergencyContact: "+91 94472 10880 (Bishop), +91 9847034168 (Samkutty)",
+  },
 }
 
 export const BASE_PROFILE_URL =
