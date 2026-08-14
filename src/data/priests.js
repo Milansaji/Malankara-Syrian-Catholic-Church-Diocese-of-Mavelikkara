@@ -104,7 +104,7 @@ const priests = {
     bornOn: "19/07/1995",
     bloodGroup: "O+",
     ordained: "27/12/2023 at St. Mary's Cathedral by Bishop Joshua Mar Ignathios",
-    permanentAddress: "",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India",
     emergencyContact: "9496071568",
   },
   'joseph-padippura': {
@@ -433,6 +433,9 @@ const priests = {
   },
 }
 
+export const DEFAULT_PERMANENT_ADDRESS =
+  "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India"
+
 export const BASE_PROFILE_URL =
   'https://malankara-syrian-catholic-church-di.vercel.app/p'
 
@@ -450,6 +453,7 @@ export function getPriest(slug) {
   return {
     slug,
     ...priest,
+    permanentAddress: priest.permanentAddress || DEFAULT_PERMANENT_ADDRESS,
     number,
     total: priestSlugs.length,
     profileUrl: `${BASE_PROFILE_URL}/${slug}`,
@@ -460,6 +464,7 @@ export function getPriestList() {
   return priestSlugs.map((slug, index) => ({
     slug,
     ...priests[slug],
+    permanentAddress: priests[slug].permanentAddress || DEFAULT_PERMANENT_ADDRESS,
     number: index + 1,
     total: priestSlugs.length,
     profileUrl: `${BASE_PROFILE_URL}/${slug}`,
