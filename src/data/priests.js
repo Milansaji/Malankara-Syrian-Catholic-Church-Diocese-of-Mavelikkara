@@ -647,6 +647,18 @@ const priests = {
     permanentAddress: "Thadathil Thekkethil, Peringanad P.O., Adoor, Pathanamthitta, Kerala 691551",
     emergencyContact: "9495643558",
   },
+  'oommen-padippurackal': {
+    name: "Fr. Oommen Padippurackal",
+    documentName: "Oommen Padippurackal",
+    nativePlace: "Komalloor",
+    father: "G. Rajan",
+    mother: "Thankamma Rajan",
+    bornOn: "18/05/1974",
+    bloodGroup: "A-",
+    ordained: "02/02/2000 at St. Mary's Malankara Catholic Church, Karimulackal by Catholicos Cyril Mar Baselios",
+    permanentAddress: "Padippurackal House, Komalloor P.O., Charummood, Alappuzha, Kerala 690505",
+    emergencyContact: "9447862718",
+  },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
