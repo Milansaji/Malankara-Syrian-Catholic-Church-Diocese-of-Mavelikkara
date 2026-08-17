@@ -386,14 +386,14 @@ const priests = {
   'george-kottapuram': {
     name: "Fr. George Kottapuram",
     documentName: "K. Chacko",
-    nativePlace: "Kokkad, Kunnathoor",
+    nativePlace: "Karithottuva, Kunnathoor",
     father: "George Chacko",
     mother: "Leelamma Chacko",
-    bornOn: "01/06/1976",
+    bornOn: "01/06/1976 (Original: 13/06/1976)",
     bloodGroup: "O+",
     ordained: "27/12/2001 at Cathedral by Moran Mor Cyril Mar Baselios",
-    permanentAddress: "Kottapuram House, Kokkad P.O., Kunnathoor East (Via) - 690540",
-    emergencyContact: "9446854671",
+    permanentAddress: "Kottapuram House, Karithottuva P.O., Kunnathoor East (Via), Kollam - 690540",
+    emergencyContact: "9447359492, 9446834671 (Kurian)",
   },
   'job-kalluvilayil': {
     name: "Fr. Job Kalluvilayil",
