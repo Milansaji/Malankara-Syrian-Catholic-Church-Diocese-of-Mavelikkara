@@ -659,6 +659,18 @@ const priests = {
     permanentAddress: "Padippurackal House, Komalloor P.O., Charummood, Alappuzha, Kerala 690505",
     emergencyContact: "9447862718",
   },
+  'kaleb-iype-cheruvallil': {
+    name: "Fr. Kaleb Iype Cheruvallil",
+    documentName: "Kaleb Iype",
+    nativePlace: "",
+    father: "K G Iype",
+    mother: "Susamma Iype",
+    bornOn: "06/06/1976",
+    bloodGroup: "B+",
+    ordained: "27/12/2001 at St. Mary's Cathedral, Trivandrum by Most Rev. Cyril Mar Baselios",
+    permanentAddress: "",
+    emergencyContact: "9400703127",
+  },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
