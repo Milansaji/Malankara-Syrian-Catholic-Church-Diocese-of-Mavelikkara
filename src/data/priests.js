@@ -779,6 +779,18 @@ const priests = {
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447123718, 9446273610",
   },
+  'yoohanon-puthenveettil-remban': {
+    name: "Rt. Rev. Yoohanon Puthenveettil Remban",
+    documentName: "",
+    nativePlace: "Thevalappara",
+    father: "Malkai",
+    mother: "Thankamma Malkai",
+    bornOn: "19/04/1946",
+    bloodGroup: "A+",
+    ordained: "18/12/1975 at St. Malankara Catholic Church, Enathu by His Grace Benedict Mar Gregorios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9946957070, 9495200575, 9447210880, 7593813181",
+  },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
