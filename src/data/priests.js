@@ -8,7 +8,7 @@ const priests = {
     bornOn: "24/11/1991",
     bloodGroup: "A+",
     ordained: "27/12/2019 at St. Mary's Cathedral, Punnamood by Bishop H. E. Joshu Mar Ignathios",
-    permanentAddress: "Joys Bhavan, Peringanad PO., Adoor 691551",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "80780 90944",
   },
   'christy-john-oic': {
@@ -20,7 +20,7 @@ const priests = {
     bornOn: "15/12/1973",
     bloodGroup: "B+",
     ordained: "24/11/2003 at Mount Bethany Ashram, Mylapra by Moran mor Cyril Baselose Catholicos",
-    permanentAddress: "Bethany Nvajeevan Provincial Ashram, Bethany Hills, Nalanchira, Trivandrum 695015, Kerala",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9188020081, 8547853357",
   },
   'valiyaparambil-mathew': {
@@ -32,7 +32,7 @@ const priests = {
     bornOn: "20/10/1993",
     bloodGroup: "A+",
     ordained: "05/04/2021 at St. Mary’s Cathedral Punnamoode By His Grace Joshua Mar Ignathios",
-    permanentAddress: "Valiyaparambil, Chennithala P.O, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 8547916650",
   },
   'samuel-pazhavoorpadickal': {
@@ -44,7 +44,7 @@ const priests = {
     bornOn: "29/12/1986",
     bloodGroup: "O+",
     ordained: "25/02/2014 at Bethlehem malankara Syrian Catholic Church Puliyoor by Joshua mar ignathios",
-    permanentAddress: "Amalagiri Catholic bishop’s house Punnamoodu",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9496848342",
   },
   'thomas-naluthengumkal': {
@@ -56,7 +56,7 @@ const priests = {
     bornOn: "16/01/1983",
     bloodGroup: "B+",
     ordained: "31/12/2019 at St. Michael's Church, Thathampally by Arch Bishop Mar Joseph Perumthottam",
-    permanentAddress: "Archbishop's House, P.O. Box 10, Springfield, 123456",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "0477-2233457, +918891488198",
   },
   'john-maruthoor': {
@@ -68,7 +68,7 @@ const priests = {
     bornOn: "04/05/1989",
     bloodGroup: "A-",
     ordained: "04/02/2016 at St. Mary’s Cathedral, Punnamoodu, Mavelikkara by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Archbishop's House, Mavelikkara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "8848687023, 9645545462",
   },
   'george-varghese-kolanjikompil': {
@@ -92,7 +92,7 @@ const priests = {
     bornOn: "25/03/1980",
     bloodGroup: "O+",
     ordained: "29/12/2005 at Anchal, St. Marys Church",
-    permanentAddress: "Amalagiri Catholic Bishops House, Punnammoodu",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "94005 32573, 97471 07284",
   },
   'geevarghese-koshy-charuvila': {
@@ -104,7 +104,7 @@ const priests = {
     bornOn: "19/07/1995",
     bloodGroup: "O+",
     ordained: "27/12/2023 at St. Mary's Cathedral by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9496071568",
   },
   'joseph-padippura': {
@@ -116,7 +116,7 @@ const priests = {
     bornOn: "09/07/1987",
     bloodGroup: "O+",
     ordained: "26/12/2016 at St. Mary's Cathedral, Punnamoodu",
-    permanentAddress: "Mavelikara Bushop House",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 99469 32092, 9496848342",
   },
   'james-vargheese-illitharayil-oic': {
@@ -128,7 +128,7 @@ const priests = {
     bornOn: "23/04/1971",
     bloodGroup: "A+",
     ordained: "24/11/2004 at Girideepam Bethany Chapel, Kottayam by His Beatitude Cardinal Moran Mor Baselios Cleemis Catholicose",
-    permanentAddress: "Bethany Navajeevan Provincial Ashram, Nalanchira, Nalanchira (PO), Thiruvananthapuram-15, Kerala",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 95628 37615",
   },
   'sylvester-thekkedath': {
@@ -140,7 +140,7 @@ const priests = {
     bornOn: "10/05/1980",
     bloodGroup: "B-",
     ordained: "26/12/2006 at St. Mary's Cathedral by Moran Mor Cyril Baselios",
-    permanentAddress: "Amalagiri Catholic Bishop House, Punnamoodu P. O, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+9847444782, +9446188690",
   },
   'john-alex': {
@@ -152,7 +152,7 @@ const priests = {
     bornOn: "15/12/1984",
     bloodGroup: "A+",
     ordained: "27/12/2010 at St. Mary’s Malankara Catholic Church by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop’s House, Punnamoodu, Mavelikkara, 690 101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9847415770",
   },
   'varghese-kochukaleeckal': {
@@ -164,7 +164,7 @@ const priests = {
     bornOn: "25/10/1986",
     bloodGroup: "O+",
     ordained: "05/02/2013 at St. Mary's Malankara Syrian Catholic Church Vettiyar by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Mavelikara, Punnamoodu",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9446066079",
   },
   'geevarghese-vaidyan': {
@@ -176,7 +176,7 @@ const priests = {
     bornOn: "08/09/1966",
     bloodGroup: "O+",
     ordained: "20/12/1991 at St. Andrews Malankara Catholic Church Kallada by ArchBishop Benedict Mar Gregorios",
-    permanentAddress: "Catholic Bishop's House, Punnamood, Mavelikkara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "0479 2344081, 99951 08126",
   },
   'abraham-lukose': {
@@ -188,7 +188,7 @@ const priests = {
     bornOn: "07/02/1980",
     bloodGroup: "B+",
     ordained: "11/04/2007 at St George Malankara Catholic Church, Kadambanad by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishops House Punnamoodu, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9048047273, 9447554130",
   },
   'geevarghese-kaithavana': {
@@ -200,7 +200,7 @@ const priests = {
     bornOn: "30/05/2026",
     bloodGroup: "O+",
     ordained: "27/03/2009 at St. Stephan's Syro Malankara Catholic Church by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P. O., Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9847606484, +91 8317349792",
   },
   'francis-plavarakunnil': {
@@ -212,7 +212,7 @@ const priests = {
     bornOn: "18/05/1984",
     bloodGroup: "O+",
     ordained: "07/04/2010 at Pallickavila by Bishop Most Rev Dr Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri bishop's house, Punnamoodu, Mavelikkara 690101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "0479 2344081, 8848106237",
   },
   'joseph-thekkeveettil': {
@@ -224,7 +224,7 @@ const priests = {
     bornOn: "07/10/1992",
     bloodGroup: "O+",
     ordained: "27/12/2019 at St. Mary's Cathedral Punnamoodu by Bishop His Excellency Most Rev. Dr. Joshua Mar Ignathios",
-    permanentAddress: "Thekkeveettil, Kadampanad P. O, Thuvayoor, 691 552",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "8606668548, 9847394907",
   },
   'joshua-thekkedath': {
@@ -236,7 +236,7 @@ const priests = {
     bornOn: "08/08/1993",
     bloodGroup: "O+",
     ordained: "05/04/2021 at St. Mary's Cathedral Punnamood by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Mavelikkara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 90377 71826",
   },
   'jain-thenguvilayil': {
@@ -248,7 +248,7 @@ const priests = {
     bornOn: "30/05/1980",
     bloodGroup: "B Positive",
     ordained: "07/04/2010 at St. Mary’s Malankara Catholic Church, Pallikavila by Bishop Most Rev Dr Joshua Mar Ignathios",
-    permanentAddress: "Thenguvila Veedu, East Kallada (P.O.), Kollam (Dist), Kerala (State), India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9048309275",
   },
   'geevarghese-chakkapoottil': {
@@ -260,7 +260,7 @@ const priests = {
     bornOn: "29/09/1985",
     bloodGroup: "O+",
     ordained: "11/04/2012 at Mary's MCC by His Excellency Joshua Mar Ignathios metropolitha",
-    permanentAddress: "Amalagiri Bishop's house, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+918281723113",
   },
   'varghese-kunnathethu': {
@@ -272,7 +272,7 @@ const priests = {
     bornOn: "31/12/1987",
     bloodGroup: "B+",
     ordained: "04/02/2016 at St. Mary’s Cathedral by Bishop Joshua mar ignathios",
-    permanentAddress: "Amalagiri bishop house, punnammood P.o, Mavelikkkara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 +91 94974 16912, 94968 48342",
   },
   'abi-thomas-palavila': {
@@ -284,7 +284,7 @@ const priests = {
     bornOn: "03/09/1992",
     bloodGroup: "A+",
     ordained: "27/12/2019 at St. Mary's Cathedral Mavelikara by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Palavila Padinjattethil, Perumpuzha P. O., Perumpuzha, Kollam - 691504",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 8547911704, +91 9400420439",
   },
   'jerin-thundil': {
@@ -296,7 +296,7 @@ const priests = {
     bornOn: "16/03/1992",
     bloodGroup: "B+ve",
     ordained: "27/12/2024 at St. Mary's Cathedral, Punnamoodu, Mavelikara by Bishop Dr. Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamoodu, Mavelikara P. O 690101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+914792344081, +919048115878",
   },
   'sebastian-poochedivilayil': {
@@ -308,7 +308,7 @@ const priests = {
     bornOn: "08/07/1991",
     bloodGroup: "O+",
     ordained: "27/12/2025 at St. Mary's Cathedral by Bishop Mathews Mar Policarpose",
-    permanentAddress: "Poochedivilayil, Pallimon PO, Kollam, Kerala, India. Pin-691 576",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 90488 39265, +91 70349 62568",
   },
   'kottoortharayil-daniel': {
@@ -320,7 +320,7 @@ const priests = {
     bornOn: "09/09/1996",
     bloodGroup: "O+",
     ordained: "27/12/2025 at St. Mary's Cathedral, Punnamood by Bishop Mathews Mar Polycarpos",
-    permanentAddress: "Amalagiri Catholic Bishop’s House, Punnamoodu, Mavelikara -690 101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "0479 2344081, +91 9605927767",
   },
   'samuel-vettukuzhiyil': {
@@ -332,7 +332,7 @@ const priests = {
     bornOn: "29/05/1997",
     bloodGroup: "O+",
     ordained: "27/12/2025 at St. Mary's Cathedral by Bishop Most Rev. Dr. Mathews Mar Polycarpos",
-    permanentAddress: "Vettukuzhiyil Plammootil Mundancavu p.o Chengannur Alappuzha, Kerala, India. Pin-689121",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+919961482587, +91 9667316504",
   },
   'kuriakose-thiruvalil': {
@@ -344,7 +344,7 @@ const priests = {
     bornOn: "20/05/1982",
     bloodGroup: "B+",
     ordained: "27/12/2010 at St Mary's Malankara Catholic Church Puthoor by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Thiruvalil kizhakkethil, Puthukundam, Karthikappally, Alapuzha",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9947247302",
   },
   'john-ayanuvelil': {
@@ -356,7 +356,7 @@ const priests = {
     bornOn: "27/11/1990",
     bloodGroup: "O+",
     ordained: "26/12/2017 at St. Mary's Cathedral by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Ayanuvelil House, Sooranad North P O, Kollam 690561",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9745372815, +91 9946287794",
   },
   'mathew-chenkilath': {
@@ -368,7 +368,7 @@ const priests = {
     bornOn: "15/03/1991",
     bloodGroup: "B+ve",
     ordained: "26/12/2017 at St. Marys Cathedral Punnamoodu",
-    permanentAddress: "Chenkilath Thekkathil, Pavumba P. O., Pavumba North, Kollam 690575",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "",
   },
   'jose-kottackakathu': {
@@ -380,7 +380,7 @@ const priests = {
     bornOn: "26/01/1985",
     bloodGroup: "AB+",
     ordained: "27/12/2010 at St. Mary's Malankara Catholic Church, Puthoor by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Jose Mathew, Kottackakathu Padinjattathil, Sooranad North P.O., Kunnathoor, Kollam, PIN 690561",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9567454065",
   },
   'george-kottapuram': {
@@ -392,7 +392,7 @@ const priests = {
     bornOn: "01/06/1976 (Original: 13/06/1976)",
     bloodGroup: "O+",
     ordained: "27/12/2001 at Cathedral by Moran Mor Cyril Mar Baselios",
-    permanentAddress: "Kottapuram House, Karithottuva P.O., Kunnathoor East (Via), Kollam - 690540",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447359492, 9446834671 (Kurian)",
   },
   'job-kalluvilayil': {
@@ -404,7 +404,7 @@ const priests = {
     bornOn: "27/09/1967",
     bloodGroup: "O+",
     ordained: "28/12/1994 at Malankara Catholic Church, Ayoor by Bishop Lawrence Mar Ephrem",
-    permanentAddress: "Kalluvila Veedu, Ampalapuram, ETC.P.O, Kottarakara, Kollam, PIN 691531, Kerala, India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447962032, 9497175158",
   },
   'joseph-sadanam': {
@@ -416,7 +416,7 @@ const priests = {
     bornOn: "15/03/1967 (In Document: 29/05/1967)",
     bloodGroup: "A+",
     ordained: "18/02/1998",
-    permanentAddress: "St George Sadanam, Thuruthikara P O, Kunnathoor, PIN 690540, Kerala, India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447366149, 04792344081 (Bishop House), 7306679456 (Procurator)",
   },
   'barthelomew-george': {
@@ -428,7 +428,7 @@ const priests = {
     bornOn: "10/04/1948",
     bloodGroup: "AB+",
     ordained: "04/12/1985 at Mount Tabor Dayara Pathanapuram by Bishop Thomas Mar Timotheos",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 94472 10880 (Bishop), +91 9847034168 (Samkutty)",
   },
   'john-kaduvinkal': {
@@ -440,7 +440,7 @@ const priests = {
     bornOn: "17/12/1990",
     bloodGroup: "O+",
     ordained: "26/12/2017 at St. Mary's Cathedral by Bishop Dr. Joshua Mar Ignathios",
-    permanentAddress: "Kaduvinkal Kizhakkathil, Sooranad P.O., Pallichanda",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9995096766",
   },
   'geevarughese-charuvilayil': {
@@ -452,7 +452,7 @@ const priests = {
     bornOn: "29/08/1943",
     bloodGroup: "B+",
     ordained: "05/01/1972 at Sacred Heart Malankara Syrian Catholic Church, Adoor by Archbishop Benedict Mar Gregorios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamoodu, Mavelikara 690101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9446219911, +91 85471 37795",
   },
   'john-puthenpurayil': {
@@ -464,7 +464,7 @@ const priests = {
     bornOn: "13/05/1990",
     bloodGroup: "B+",
     ordained: "05/04/2021 at St. Mary's Cathedral by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Bishop's House, Punnamoodu, Mavelikkara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9633668243, 7012913398",
   },
   'vijayanand-james': {
@@ -476,7 +476,7 @@ const priests = {
     bornOn: "28/07/1966",
     bloodGroup: "O+",
     ordained: "02/01/2000 at St. Thomas Cathedral Bathery by Bishop Geevarghese Mar Divennasios",
-    permanentAddress: "",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9745722935, 8075282327",
   },
   'john-jacob-peroorparambil': {
@@ -488,7 +488,7 @@ const priests = {
     bornOn: "05/10/1953",
     bloodGroup: "O+",
     ordained: "30/12/1981 at Sacred Heart Church, Komalloor",
-    permanentAddress: "Peroorparambil House, Komalloor P.O., Alappuzha",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "",
   },
   'george-charuvila': {
@@ -500,7 +500,7 @@ const priests = {
     bornOn: "17/11/1953 (SSLC) / (08/03/1954)",
     bloodGroup: "O+",
     ordained: "20/12/1979 at Sacred Heart MCC Adoor by Bishop Most Rev. Benedict Mar Gregorios",
-    permanentAddress: "Amalagiri Catholic Bishops House, Punnamoodu, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "",
   },
   'cherian-mayickal': {
@@ -512,7 +512,7 @@ const priests = {
     bornOn: "12/12/1952",
     bloodGroup: "O+",
     ordained: "27/12/1980 at Betalahem Malankara Syrian Catholic Church, Puliyoor by Archbishop Benedict Mar Gregorios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 94472 10880 (Bishop), +91 9074934252 (Brother)",
   },
   'thomas-cherupushpam': {
@@ -524,7 +524,7 @@ const priests = {
     bornOn: "20/05/1967",
     bloodGroup: "B+",
     ordained: "22/03/1996 at St Marys Malankara Syrian Catholic Church, Nallila by Major Archbishop Cyril Mar Baselios",
-    permanentAddress: "Amalagiri Bishop's House, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447461936",
   },
   'abraham-pappadyil': {
@@ -536,7 +536,7 @@ const priests = {
     bornOn: "17/05/1943",
     bloodGroup: "B+",
     ordained: "23/12/1968",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Mavelikara 690101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "0479-2344081, 8593849254",
   },
   'johnson-karikunnil': {
@@ -548,7 +548,7 @@ const priests = {
     bornOn: "25/05/1975",
     bloodGroup: "A+",
     ordained: "30/12/2003 at St. Mary's Malankara Catholic Church Thuvayoor West by Bishop Yoohanon Mar Chrysostom",
-    permanentAddress: "Archbishop's House, P.O. Box 10, Springfield, 123456",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9072322454",
   },
   'john-vaipil': {
@@ -560,7 +560,7 @@ const priests = {
     bornOn: "05/05/1967",
     bloodGroup: "O+",
     ordained: "18/12/1992 at St. Joseph's Malankara Catholic Church, Parakkoottam by Archbishop Benedict Mar Gregorios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood PO, Mavelikara 690 101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9495105039 (Aniyan Vaipil)",
   },
   'thomas-paniker-malpan': {
@@ -572,7 +572,7 @@ const priests = {
     bornOn: "04/07/1943",
     bloodGroup: "A+",
     ordained: "20/10/1968 at St. George Malankara Syrian Catholic Church, Karichal by Archbishop Benedict Mar Gregorios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 94472 10880 (Bishop), +91 94003 29253 (Brother)",
   },
   'geevarghese-nediyamalayil': {
@@ -584,7 +584,7 @@ const priests = {
     bornOn: "21/05/1968",
     bloodGroup: "O+",
     ordained: "27/12/2001 at St. Marys Cathedral, Pattom",
-    permanentAddress: "Nediyamalayil House, Puliyoor P. O., Chengannoor 689510, Alappuzha",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 9446711095, +91 9605392558",
   },
   'robert-palavilayil': {
@@ -596,7 +596,7 @@ const priests = {
     bornOn: "03/10/1974",
     bloodGroup: "B+",
     ordained: "26/12/2000 at Sacred Heart Catholic Church, Adoor by Archbishop Cyril Mar Baselios Catholicos",
-    permanentAddress: "Catholic Bishop House, Punnamoodu, Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9497780673",
   },
   'sam-g-paruvelil': {
@@ -608,7 +608,7 @@ const priests = {
     bornOn: "10/05/1965",
     bloodGroup: "B+",
     ordained: "27/12/1994 at Holy Angels School, Adoor by Bishop Lawrence Mar Ephrem",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamoodu P.O., Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 8281712343",
   },
   'varghese-karimpalil': {
@@ -620,7 +620,7 @@ const priests = {
     bornOn: "16/03/1992",
     bloodGroup: "O+",
     ordained: "27/12/2019 at St. Mary's Catholic Cathedral, Punnamoodu by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamoodu P.O., Mavelikara",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 7902262720",
   },
   'samuel-paickattethu': {
@@ -632,7 +632,7 @@ const priests = {
     bornOn: "20/05/1986",
     bloodGroup: "B+",
     ordained: "11/04/2012 at St. Mary’s Malankara Catholic Church, Karimulackal",
-    permanentAddress: "Amalagiri Catholic Bishop’s House, Punnamoodu, Mavelikara 690 101",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447663176 (Roju - Brother)",
   },
   'philip-edayanavila': {
@@ -644,7 +644,7 @@ const priests = {
     bornOn: "06/01/1978",
     bloodGroup: "A+",
     ordained: "07/04/2010 at St. Mary's MSC Church, Pallickavila by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Thadathil Thekkethil, Peringanad P.O., Adoor, Pathanamthitta, Kerala 691551",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9495643558",
   },
   'oommen-padippurackal': {
@@ -656,7 +656,7 @@ const priests = {
     bornOn: "18/05/1974",
     bloodGroup: "A-",
     ordained: "02/02/2000 at St. Mary's Malankara Catholic Church, Karimulackal by Catholicos Cyril Mar Baselios",
-    permanentAddress: "Padippurackal House, Komalloor P.O., Charummood, Alappuzha, Kerala 690505",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9447862718",
   },
   'kaleb-iype-cheruvallil': {
@@ -668,13 +668,109 @@ const priests = {
     bornOn: "06/06/1976",
     bloodGroup: "B+",
     ordained: "27/12/2001 at St. Mary's Cathedral, Trivandrum by Most Rev. Cyril Mar Baselios",
-    permanentAddress: "",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9400703127",
+  },
+  'jose-venmalottu': {
+    name: "Fr. Jose Venmalottu",
+    documentName: "Jose Kiriyan",
+    nativePlace: "Quilon, Kerala",
+    father: "Yohannan Kiriyan",
+    mother: "Thankamma Kiriyan",
+    bornOn: "20/05/1970",
+    bloodGroup: "O+",
+    ordained: "22/03/1996 at St. Mary’s Malankara Catholic Church, Nallila by Archbishop Cyril Mar Baselios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "+91 9447333869, +91 9567612185",
+  },
+  'mathew-kamechemparambil': {
+    name: "Fr. Mathew Kamechemparambil",
+    documentName: "Fr. Jobin Jose",
+    nativePlace: "Cheruthana",
+    father: "Jose MG",
+    mother: "Mini Jose",
+    bornOn: "16/05/1992",
+    bloodGroup: "A+",
+    ordained: "22/04/2022 at St. Mary's Cathedral by Bishop Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9349596809, 9495086804",
+  },
+  'john-s-puthenvila': {
+    name: "Fr. John S. Puthenvila",
+    documentName: "",
+    nativePlace: "",
+    father: "PO Samuel",
+    mother: "Annamma Samuel",
+    bornOn: "16/08/1976",
+    bloodGroup: "AB+",
+    ordained: "27/12/2004 by Archbishop Cyril Mar Baselios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9048658365",
+  },
+  'siji-mathew-thadathil': {
+    name: "Fr. Siji Mathew Thadathil",
+    documentName: "Mathew Luka",
+    nativePlace: "Vazhakulam",
+    father: "Late Mathew",
+    mother: "Sheryl",
+    bornOn: "20/05/1973",
+    bloodGroup: "O+",
+    ordained: "22/09/2008 at St John’s MCC, Kurathikad by Bishop Dr Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9895267032, 9746980372",
+  },
+  'john-thottathil': {
+    name: "Fr. John Thottathil",
+    documentName: "Jithin John",
+    nativePlace: "Maruthamonpally",
+    father: "M. John",
+    mother: "Rosamma John",
+    bornOn: "06/03/1990",
+    bloodGroup: "A+",
+    ordained: "26/12/2016 at St. Mary’s Syro - Malankara Catholic Cathedral, Punnamoodu, Mavelikara by H. G. Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "+91 9495 088 197",
+  },
+  'roshan-john-vadakumthala': {
+    name: "Fr. Roshan John Vadakumthala",
+    documentName: "Roshan John",
+    nativePlace: "Vennikulam",
+    father: "John V V",
+    mother: "Aleyamma John",
+    bornOn: "12/02/1989",
+    bloodGroup: "B+",
+    ordained: "26/12/2016 at St. Mary's Cathedral, Punnamoodu by Bishop Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "",
+  },
+  'immanuel-punthalavila': {
+    name: "Fr. Immanuel Punthalavila",
+    documentName: "Jobin Punthalavilayil Joy",
+    nativePlace: "Puthoor",
+    father: "Joy M",
+    mother: "Ponnamma Joy",
+    bornOn: "25/05/1985",
+    bloodGroup: "B+",
+    ordained: "27/12/2010 at St. Mary's Malankara Catholic Church Puthoor by Bishop Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "+4915219658060, +919447319751",
+  },
+  'dianesious-ak': {
+    name: "Fr. Dianesious A.K.",
+    documentName: "",
+    nativePlace: "Pooyappally",
+    father: "Arnold",
+    mother: "Kunjumole",
+    bornOn: "13/02/1986",
+    bloodGroup: "B+",
+    ordained: "11/04/2012 at St. Mary's Malankara Catholic Church, Karimulackal",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9961801109",
   },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
-  "Amalagiri Catholic Bishop's House, Punnamood, Mavelikara 690101, Alappuzha, Kerala, India"
+  "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101"
 
 export const BASE_PROFILE_URL =
   'https://malankara-syrian-catholic-church-di.vercel.app/p'
@@ -693,7 +789,7 @@ export function getPriest(slug) {
   return {
     slug,
     ...priest,
-    permanentAddress: priest.permanentAddress || DEFAULT_PERMANENT_ADDRESS,
+    permanentAddress: DEFAULT_PERMANENT_ADDRESS,
     number,
     total: priestSlugs.length,
     profileUrl: `${BASE_PROFILE_URL}/${slug}`,
@@ -704,7 +800,7 @@ export function getPriestList() {
   return priestSlugs.map((slug, index) => ({
     slug,
     ...priests[slug],
-    permanentAddress: priests[slug].permanentAddress || DEFAULT_PERMANENT_ADDRESS,
+    permanentAddress: DEFAULT_PERMANENT_ADDRESS,
     number: index + 1,
     total: priestSlugs.length,
     profileUrl: `${BASE_PROFILE_URL}/${slug}`,
