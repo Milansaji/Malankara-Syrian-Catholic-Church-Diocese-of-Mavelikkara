@@ -26,12 +26,6 @@ function PriestProfile() {
   return (
     <main className="profile">
       <header className="profile__header">
-        <span
-          className="card-number card-number--profile"
-          aria-label={`Priest ${priest.number} of ${priest.total}`}
-        >
-          {priest.number}
-        </span>
         <div className="profile__ornament" aria-hidden="true">
           ✛
         </div>

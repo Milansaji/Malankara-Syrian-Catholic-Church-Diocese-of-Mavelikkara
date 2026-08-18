@@ -132,13 +132,6 @@ body::before {
   box-shadow: 0 4px 12px rgba(176, 138, 60, 0.28);
 }
 
-.card-number--profile {
-  margin-bottom: 0.75rem;
-  min-width: 2.4rem;
-  height: 2.4rem;
-  font-size: 1rem;
-}
-
 .profile__ornament {
   color: var(--gold);
   font-size: 1.5rem;
