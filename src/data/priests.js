@@ -767,6 +767,18 @@ const priests = {
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9961801109",
   },
+  'daniel-thekkedath': {
+    name: "Fr. Daniel Thekkedath",
+    documentName: "Saji Kochukunju",
+    nativePlace: "Parakkoottam",
+    father: "D. Kochukunju",
+    mother: "Annamma Kochukunju",
+    bornOn: "21/09/1975",
+    bloodGroup: "O+",
+    ordained: "26/12/2003 at St. Mary's Cathedral by Bishop Cyril Mar Baselios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9447123718, 9446273610",
+  },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
