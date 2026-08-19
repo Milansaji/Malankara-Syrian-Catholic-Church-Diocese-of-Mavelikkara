@@ -839,6 +839,30 @@ const priests = {
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+91 94472 10880 (Bishop), 7994969031",
   },
+  'jose-kadakampallil': {
+    name: "Fr. Jose Kadakampallil",
+    documentName: "Jose Kadakampallil",
+    nativePlace: "Puthoor",
+    father: "Oomman.K",
+    mother: "Rachel",
+    bornOn: "27/07/1942",
+    bloodGroup: "O+",
+    ordained: "10/12/1967 at St. Mary’s Catholic Church, Puthoor, by Bishop Benedict Mar Gregorios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "9895637785",
+  },
+  'geevarghese-nedumpurath': {
+    name: "Fr. Geevarghese Nedumpurath",
+    documentName: "Binny Philip",
+    nativePlace: "Kadampanad",
+    father: "V G Philip",
+    mother: "Baby Philip",
+    bornOn: "25/05/1981",
+    bloodGroup: "AB+",
+    ordained: "11/04/2007 at St. George Malankara Catholic Church, Kadampand by Bishop Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "8547583019, 9447210880",
+  },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
