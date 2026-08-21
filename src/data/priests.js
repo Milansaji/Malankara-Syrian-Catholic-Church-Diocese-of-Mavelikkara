@@ -56,7 +56,7 @@ const priests = {
     bornOn: "16/01/1983",
     bloodGroup: "B+",
     ordained: "31/12/2019 at St. Michael's Church, Thathampally by Arch Bishop Mar Joseph Perumthottam",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    permanentAddress: "Naluthengumkal, Thathampally P.O., Alappuzha 688013",
     emergencyContact: "0477-2233457, +918891488198",
   },
   'john-maruthoor': {
@@ -144,7 +144,7 @@ const priests = {
     emergencyContact: "+9847444782, +9446188690",
   },
   'john-alex': {
-    name: "Fr. John Alex",
+    name: "Fr. John Alex Puthenveedu",
     documentName: "John Alex",
     nativePlace: "Thevalappuram",
     father: "C. M Alexander",
@@ -897,7 +897,7 @@ const priests = {
     bloodGroup: "A+",
     ordained: "19/04/2022 at St. Mary's Cathedral, Punnammod by Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
-    emergencyContact: "",
+    emergencyContact: "92074 22881",
   },
   'thomas-puthenparampil': {
     name: "Fr. Thomas Puthenparampil",
