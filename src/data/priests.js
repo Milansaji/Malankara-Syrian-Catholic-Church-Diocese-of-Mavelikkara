@@ -959,6 +959,30 @@ const priests = {
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+919567021244, +919048374692",
   },
+  'philip-jammathukalathil': {
+    name: "Fr. Philip Jammathukalathil (Jijo)",
+    documentName: "Philip K J",
+    nativePlace: "Thiruvalla",
+    father: "Jose P V",
+    mother: "Elsamma Jose",
+    bornOn: "07/05/1989",
+    bloodGroup: "A+",
+    ordained: "19/04/2022 at St. Mary's MCC Cathedral Punnamoodu by Bishop Joshua Mar Ignathios",
+    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    emergencyContact: "+91 9496326265, +91 919656925265",
+  },
+  'lukose-kannimel': {
+    name: "Fr. Lukose Kannimel (Bijumon Rajan)",
+    documentName: "Bijumon Rajan",
+    nativePlace: "Pooruvazhy",
+    father: "Raju.P",
+    mother: "Saramamma .D",
+    bornOn: "25/02/1979",
+    bloodGroup: "A+",
+    ordained: "26/12/2005 by Moran Mor Cyril Baselios Catholicose",
+    permanentAddress: "Kannimel Thandalil house, Thengamom P.O., Pallickal, Pathanamthitta District, Kerala 690522, India",
+    emergencyContact: "",
+  },
 }
 
 export const DEFAULT_PERMANENT_ADDRESS =
