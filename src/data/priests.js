@@ -20,7 +20,7 @@ const priests = {
     bornOn: "15/12/1973",
     bloodGroup: "B+",
     ordained: "24/11/2003 at Mount Bethany Ashram, Mylapra by Moran mor Cyril Baselose Catholicos",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    permanentAddress: "Bethany Navajeevan Provincial Ashram, Bethany Hills, Nalanchira, Trivandrum, Kerala 695015",
     emergencyContact: "9188020081, 8547853357",
   },
   'valiyaparambil-mathew': {
@@ -692,7 +692,7 @@ const priests = {
     bornOn: "16/05/1992",
     bloodGroup: "A+",
     ordained: "22/04/2022 at St. Mary's Cathedral by Bishop Joshua Mar Ignathios",
-    permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
+    permanentAddress: "JJ Villa, Cheruthana PO, Cheruthana, Alappuzha, Kerala 690517",
     emergencyContact: "9349596809, 9495086804",
   },
   'john-s-puthenvila': {
