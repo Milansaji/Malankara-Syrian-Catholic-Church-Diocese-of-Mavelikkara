@@ -153,7 +153,7 @@ const priests = {
     bloodGroup: "A+",
     ordained: "27/12/2010 at St. Mary’s Malankara Catholic Church by Bishop Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
-    emergencyContact: "9847415770",
+    emergencyContact: "9847415770, 9447715770",
   },
   'varghese-kochukaleeckal': {
     name: "Fr. Varghese Kochukaleeckal",
@@ -385,15 +385,15 @@ const priests = {
   },
   'george-kottapuram': {
     name: "Fr. George Kottapuram",
-    documentName: "K. Chacko",
-    nativePlace: "Karithottuva, Kunnathoor",
-    father: "George Chacko",
+    documentName: "George Chacko",
+    nativePlace: "Karimthottuva",
+    father: "K Chacko",
     mother: "Leelamma Chacko",
     bornOn: "01/06/1976 (Original: 13/06/1976)",
     bloodGroup: "O+",
     ordained: "27/12/2001 at Cathedral by Moran Mor Cyril Mar Baselios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
-    emergencyContact: "9447359492, 9446834671 (Kurian)",
+    emergencyContact: "9446854671, 9495709871",
   },
   'job-kalluvilayil': {
     name: "Fr. Job Kalluvilayil",
