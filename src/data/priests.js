@@ -180,7 +180,7 @@ const priests = {
     emergencyContact: "0479 2344081, 99951 08126",
   },
   'abraham-lukose': {
-    name: "Fr. Abraham Lukose",
+    name: "Fr. Abraham Lukose Kizhakkedath",
     documentName: "Abraham Lukose",
     nativePlace: "Chathakulam, Poruvazhy",
     father: "Lukose Abraham",
@@ -492,7 +492,7 @@ const priests = {
     emergencyContact: "",
   },
   'george-charuvila': {
-    name: "Fr. George Charuvila",
+    name: "Rt. Rev. George Charuvila Cor Episcopa",
     documentName: "George E Charuvila",
     nativePlace: "Poruvazhy",
     father: "G Edichandy",
@@ -640,8 +640,8 @@ const priests = {
     documentName: "Philip Tharakan.D",
     nativePlace: "Peringanad, Adoor",
     father: "Daniel Idicula",
-    mother: "Ponnamma Idicula",
-    bornOn: "06/01/1978",
+    mother: "Ponnamma Daniel",
+    bornOn: "27/05/1978",
     bloodGroup: "A+",
     ordained: "07/04/2010 at St. Mary's MSC Church, Pallickavila by Bishop Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
@@ -840,7 +840,7 @@ const priests = {
     emergencyContact: "+91 94472 10880 (Bishop), 7994969031",
   },
   'jose-kadakampallil': {
-    name: "Fr. Jose Kadakampallil",
+    name: "Rt. Rev. Jose Kadakampallil Cor Episcopa",
     documentName: "Jose Kadakampallil",
     nativePlace: "Puthoor",
     father: "Oomman.K",
