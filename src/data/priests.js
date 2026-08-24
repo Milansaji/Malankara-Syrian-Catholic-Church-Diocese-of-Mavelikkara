@@ -621,7 +621,7 @@ const priests = {
     bloodGroup: "O+",
     ordained: "27/12/2019 at St. Mary's Catholic Cathedral, Punnamoodu by Bishop Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
-    emergencyContact: "+91 7902262720",
+    emergencyContact: "9961013039",
   },
   'samuel-paickattethu': {
     name: "Fr. Samuel Paickattethu",
@@ -741,7 +741,7 @@ const priests = {
     bloodGroup: "B+",
     ordained: "26/12/2016 at St. Mary's Cathedral, Punnamoodu by Bishop Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
-    emergencyContact: "",
+    emergencyContact: "7902262720",
   },
   'immanuel-punthalavila': {
     name: "Fr. Immanuel Punthalavila",
