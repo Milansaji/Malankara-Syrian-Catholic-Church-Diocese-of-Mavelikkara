@@ -784,7 +784,7 @@ const priests = {
     documentName: "",
     nativePlace: "Thevalappuram",
     father: "K Mathai",
-    mother: "Thankamma Malkai",
+    mother: "Thankamma Mathai",
     bornOn: "19/04/1946",
     bloodGroup: "A+",
     ordained: "18/12/1975 at St. Malankara Catholic Church, Enathu by His Grace Benedict Mar Gregorios",
