@@ -828,8 +828,8 @@ const priests = {
     emergencyContact: "+91 94472 10880 (Bishop), +91 9446573579 (Sister)",
   },
   'chempakassery-philip': {
-    name: "Rev. Dr. Chempakassery Philip",
-    documentName: "Chempakassery Philip",
+    name: "Rev. Dr. Philip Chempakassery",
+    documentName: "Philip Chempakassery",
     nativePlace: "Kottara",
     father: "Yohannan",
     mother: "Annamma",
