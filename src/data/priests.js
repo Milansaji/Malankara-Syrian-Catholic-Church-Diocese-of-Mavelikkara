@@ -139,7 +139,7 @@ const priests = {
     mother: "Ammini",
     bornOn: "10/05/1980",
     bloodGroup: "B-",
-    ordained: "26/12/2006 at St. Mary's Cathedral by Moran Mor Cyril Baselios",
+    ordained: "26/12/2005 at St. Mary's Cathedral by Moran Mor Cyril Baselios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "+9847444782, +9446188690",
   },
