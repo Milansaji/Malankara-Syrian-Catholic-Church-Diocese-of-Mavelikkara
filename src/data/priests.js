@@ -151,7 +151,7 @@ const priests = {
     mother: "Mary John",
     bornOn: "15/12/1984",
     bloodGroup: "A+",
-    ordained: "27/12/2010 at St. Mary’s Malankara Catholic Church by Bishop Joshua Mar Ignathios",
+    ordained: "27/12/2010 at St. Mary’s Malankara Catholic Church, Puthoor by Bishop Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
     emergencyContact: "9847415770, 9447715770",
   },
@@ -969,7 +969,7 @@ const priests = {
     bloodGroup: "A+",
     ordained: "19/04/2022 at St. Mary's MCC Cathedral Punnamoodu by Bishop Joshua Mar Ignathios",
     permanentAddress: "Amalagiri Catholic Bishop's House, Punnamood P.O., Mavelikara 690101",
-    emergencyContact: "+91 9496326265, +91 919656925265",
+    emergencyContact: "+91 9496326265, +91 9656925265",
   },
   'lukose-kannimel': {
     name: "Fr. Lukose Kannimel (Bijumon Rajan)",
