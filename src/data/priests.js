@@ -948,7 +948,7 @@ const priests = {
     emergencyContact: "9447461936",
   },
   'benedict-kurian': {
-    name: "Fr. Benedict Kurian",
+    name: "Fr. Benedict Kurian Perumuttath",
     documentName: "BENEDICT KURIAN",
     nativePlace: "THURUTHIKARA, KERALA",
     father: "KURIAN",
